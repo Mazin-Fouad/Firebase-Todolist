@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "mf-todolist-4763d": {
+      "hosting": {
+        "Firebase-Todolist": [
+          "mf-todolist-4763d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "mf-todolist-4763d"
+  }
+}
